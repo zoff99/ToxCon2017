@@ -1,5 +1,3 @@
-# ToxCon 2017
-
 <img src="https://raw.githubusercontent.com/zoff99/ToxCon2017/master/images/logo_001.png" width="250">
 
 ## Slides
