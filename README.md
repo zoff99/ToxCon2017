@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/zoff99/ToxCon2017/master/images/logo_001.png" width="250">
+<img src="https://raw.githubusercontent.com/zoff99/ToxCon2017/master/poster/logo_001.png" width="250">
 
 ## Slides
 [Slides](https://github.com/zoff99/ToxCon2017/commit/ea4e6e6b4215bcf5ef864c5f918f5cd8f311c33b)
